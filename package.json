@@ -1,0 +1,15 @@
+{
+  "name": "javascript_proj",
+  "version": "1.0.0",
+  "description": "jswebpack_sample",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
